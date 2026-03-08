@@ -14,8 +14,8 @@ Welcome to my GitHub profile! I'm a B.Tech (AI&DS) student and passionate develo
 ## 💻 Tech Stack
 
 - **Languages**: Python, SQL,
-- **Frontend**: HTML, CSS3, React
-- **Backend**: Node.js, Django
+- **Frontend**: HTML, React
+- **Backend**: Node.js, 
 - **Databases**: MongoDB, MySQL
 - **Machine Learning & Data Science**: TensorFlow, Pandas, NumPy, Streamlit, Google Colab
 - **Tools & Version Control**: Git, GitHub, VS Code
