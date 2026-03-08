@@ -1,5 +1,5 @@
 
-# Hi, I'm Sanjaykumar👋
+# Hi, I'm Sanjaykumar P👋
 
 Welcome to my GitHub profile! I'm a B.Tech (AI&DS) student and passionate developer focused on building web projects and exploring cybersecurity.
 
