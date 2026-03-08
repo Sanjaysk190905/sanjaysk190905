@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Hi, I'm Sanjaykumar👋
 
 Welcome to my GitHub profile! I'm a B.Tech (AI&DS) student and passionate developer focused on building web projects and exploring cybersecurity.
@@ -44,20 +44,4 @@ _More projects coming soon!_
 
 ⭐ If you find my projects interesting, feel free to give them a star and follow me for more updates!
 =======
-## Hi there 👋
 
-<!--
-**Sanjaysk190905/sanjaysk190905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
->>>>>>> 58e7d3b53f25126d03ea59b6ae3f9a2b163bbcc1
